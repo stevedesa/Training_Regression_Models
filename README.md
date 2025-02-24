@@ -1,4 +1,4 @@
-# Project 1: Understanding and Training Regression Models
+# Understanding and Training Regression Models
 
 ## Introduction
 
